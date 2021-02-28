@@ -8,5 +8,5 @@ I choose make a snake. Game looks like this:
 
 Have start MENU, LOSE menu? score count, PAUSE ("ESQ")
 
-Also music, sound on eat
+Also music, sound on eat, random spawn new foods
 
